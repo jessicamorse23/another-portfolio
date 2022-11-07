@@ -5,8 +5,8 @@ GitHub pages. I ended up having to create a new repository and React app for thi
 [Original Repo](https://github.com/jessicamorse23/jm-react-portfolio)
 
 ## Usage and code .
-![Portfolio](../JM%20Portfolio%201.png)<br>
-![About Me](../JM%20Portfolio%202.png)<br>
+![Portfolio](/src/assets/JM%20Portfolio%201.png)<br>
+![About Me](/src/assets/JM%20Portfolio%202.png)<br>
 
 
 Available Scripts
